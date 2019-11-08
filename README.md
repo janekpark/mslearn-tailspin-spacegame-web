@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jparkSandBox/Space%20Game-web-Pipeline/_apis/build/status/janekpark.mslearn-tailspin-spacegame-web%20(1)?branchName=master)](https://dev.azure.com/jparkSandBox/Space%20Game-web-Pipeline/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
